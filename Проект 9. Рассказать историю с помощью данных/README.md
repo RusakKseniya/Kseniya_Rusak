@@ -33,7 +33,7 @@
 https://drive.google.com/file/d/1msVjqWC6IGNFWCRgS1TUycubzvicLl9X/view
 
 ## Дополнительная ссылка на Google Colab
-Так как в GitHub выводятся не все визуализации, работа доступна по ссылке https://colab.research.google.com/drive/1KLkX2kEDeyEWyfmEpIOBHiljJWRv0rdE с отображением резхульатов работы всех ячеек.
+Так как в GitHub выводятся не все визуализации, работа доступна по ссылке https://colab.research.google.com/drive/1KLkX2kEDeyEWyfmEpIOBHiljJWRv0rdE с отображением результатов работы всех ячеек.
 
 ## Навыки и инструменты
 Seaborn, Matplotlib, Pandas, Plotly, JSON, folium, визуализация в геоаналитике, подготовка презентации по результатам исследования
