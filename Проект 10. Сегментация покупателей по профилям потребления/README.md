@@ -24,5 +24,5 @@
 https://drive.google.com/file/d/1mtNoKrslyomHfoX9-d2w4_Vkd7s-lKf9/view?usp=sharing
 
 ## Навыки и инструменты
-Seaborn, Matplotlib, Pandas, NumPy, SkiPy, scikit_posthocs выявление выбросов и аномалий в данных, категоризация, RFM-анализ, тестирование гипотез
+Seaborn, Matplotlib, Pandas, NumPy, SkiPy, Scikit_posthocs, выявление выбросов и аномалий в данных, категоризация, RFM-анализ, тестирование гипотез
 
